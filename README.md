@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Salman
 - 👀 I’m learning and exploring
 - 🌱 I’m currently learning FLutter
-- 📫 How to reach me https://github.com/SalmanTariq-st
+- 📫 How to reach me www.linkedin.com/in/salmantariqst
 
 <!---
 SalmanTariq-st/SalmanTariq-st is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
