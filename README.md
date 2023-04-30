@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Salman
 - 👀 I’m learning and exploring
-- 🌱 I’m currently learning FLutter
+- 🌱 I’m currently learning and evolving
 - 📫 How to reach me www.linkedin.com/in/salmantariqst
 
 <!---
