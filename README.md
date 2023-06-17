@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Salman
-- 👀 I’m learning and exploring
+- 👀 Looking for opportunities
 - 🌱 I’m currently learning and evolving
 - 📫 How to reach me www.linkedin.com/in/salmantariqst
 
