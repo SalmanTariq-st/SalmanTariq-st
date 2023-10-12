@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Salman
 - 👀 Looking for opportunities
-- 🌱 I’m currently learning and evolving
+- 🌱 A web developer in evolution
 - 📫 How to reach me www.linkedin.com/in/salmantariqst
 
 <!---
